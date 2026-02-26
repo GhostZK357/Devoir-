@@ -1,6 +1,5 @@
-Le projet **LabGenius** est une application web conçue comme un **simulateur de laboratoire de synthèse génétique**. L’idée est de permettre aux étudiants et aux investisseurs de comprendre, de manière interactive et pédagogique, les manipulations génétiques de base.  
 
-### En résumé, le projet parle de :
+
 - **Un laboratoire virtuel** où l’utilisateur joue le rôle d’un chercheur.  
 - **Différentes sections/pages** :
   - **Dashboard** : vue d’ensemble des projets et séquences.  
