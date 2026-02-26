@@ -14,5 +14,5 @@ LABGENUIS
 En clair, c’est un projet qui mélange **biologie et informatique** pour créer un outil interactif, éducatif et démonstratif autour de la manipulation génétique.  
 
 PANDY STEPHANE HENRY
-MAFOUMIE LEANDRE 
+MAFOUMBIE LEANDRE 
 BATCHI BATH JEREMI
